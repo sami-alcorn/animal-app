@@ -1,0 +1,42 @@
+/*centers headers*/
+h1 {
+  text-align: center;
+}
+/*styles background colors for card headers and card bodies*/
+#animalListCardHeader {
+  background-color: #71e9cd;
+}
+
+#addCardHeader {
+  background-color: #71e9cd;
+}
+
+#animalListCardBody {
+  background-color: #1c9ca8;
+}
+
+#addCardBody {
+  background-color: #1c9ca8;
+}
+/*customizes margins for cards*/
+#animalListCard {
+  margin: 3rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+#addAnimalCard {
+  margin: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 5rem;
+}
+
+/*styles save and delete buttons*/
+#saveButton {
+  background-color: #71e9cd;
+  
+}
+
+#deleteButton {
+  background-color: #82273c;
+  color: white
+}
